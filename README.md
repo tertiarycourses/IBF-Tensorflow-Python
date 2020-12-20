@@ -1,5 +1,5 @@
 # Deep Learning with Tensorflow and Python (CITREP+)
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Deep Learning with Tensorflow and Python (CITREP+)](https://www.tertiarycourses.com.sg/deep-learning-with-tensorflow-and-python-citrep.html) course. 
 
