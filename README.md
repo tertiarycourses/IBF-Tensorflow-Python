@@ -1,146 +1,113 @@
-# Deep Learning with Tensorflow and Python (CITREP+)
+# Data Analytics and Deep Learning for Financial Services (IBF Funded)
 ## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
-These are the exercise files used for [Deep Learning with Tensorflow and Python (CITREP+)](https://www.tertiarycourses.com.sg/deep-learning-with-tensorflow-and-python-citrep.html) course. 
+These are the exercise files used for [# Data Analytics and Deep Learning for Financial Services (IBF Funded) ](https://www.tertiarycourses.com.sg/ibf-data-analytics-and-deep-learning-course-for-financial-services.html) course. 
 
 The course outline can be found in 
 
-https://www.tertiarycourses.com.sg/deep-learning-with-tensorflow-and-python-citrep.html
+https://www.tertiarycourses.com.sg/ibf-data-analytics-and-deep-learning-course-for-financial-services.html
 
-<h2>Day 1 <br />Module 1 Basic Python</h2>
-<p><strong>Topic 1.1 Get Started with Python</strong></p>
+<<h2>Topic 1 - Python Fundamental</h2>
+<p><strong>Topic 1.1 Get Started on Python</strong></p>
 <ul>
-<li>Overview</li>
-<li>Install Python</li>
-<li>Install Sublime Text &amp; PyCharm</li>
-<li>First Python Script</li>
-<li>Comment</li>
+<li>Overview of Python</li>
+<li>Set Python</li>
+<li>Code Your First Python Script</li>
 </ul>
-<p><strong>Topic 1.2 Data Types</strong></p>
+<p><strong>Topic 1.2: Data Types</strong> </p>
 <ul>
-<li>Number&nbsp;</li>
-<li>String&nbsp;</li>
+<li>Number</li>
+<li>String</li>
 <li>List</li>
 <li>Tuple</li>
 <li>Dictionary</li>
 <li>Set</li>
 </ul>
-<p><strong>Topic 1.3 Operators</strong></p>
+<p><strong>Topic 1.3 Operators</strong> </p>
 <ul>
 <li>Arithmetic Operators</li>
 <li>Compound Operators</li>
 <li>Comparison Operators</li>
 <li>Membership Operators</li>
 <li>Logical Operators</li>
-<li>Identity Operators</li>
 </ul>
-<p><strong>Topic 1.4 Control Structure</strong></p>
+<p><strong>Topic 1.4 Control Structure, Loop and Comprehension</strong> </p>
 <ul>
 <li>Conditional</li>
 <li>Loop</li>
 <li>Iterating Over Multiple Sequences</li>
-<li>Break &amp; Continue</li>
-<li>Loop with Else</li>
+<li>Comprehension</li>
 </ul>
-<p><strong>Topic 1.5 Function</strong></p>
+<p><strong>Topic 1.5 Function</strong> </p>
 <ul>
 <li>Function Syntax</li>
-<li>Return Single Value</li>
-<li>Return Multiple Values</li>
-<li>Passing Arguments</li>
+<li>Return Values</li>
 <li>Default Arguments</li>
 <li>Variable Arguments</li>
-<li>Decorator</li>
 <li>Lambda, Map, Filter</li>
 </ul>
-<p><strong>Topic 1.6 Modules &amp; Packages</strong></p>
+<p><strong>Topic 1.6 Modules &amp; Packages</strong> </p>
 <ul>
-<li>Modules</li>
-<li>Packages</li>
-<li>Python Standard Libraries</li>
-<li>Install Third Party Packages</li>
-<li>Anaconda Packages</li>
+<li>Import Modules and Packages</li>
+<li>Python Standard Packages</li>
+<li>Third Party Packages</li>
 </ul>
-<h2>Day 2 <br />Module 2 Advanced Python</h2>
-<p><strong>Topic 2.1 Comprehensions &amp; Generators</strong></p>
+<h2>Topic 2 - Data Analytics and Visualization with Python</h2>
+<p><strong>Topic 2.1 Data Preparation</strong></p>
 <ul>
-<li>Comprehension Syntax</li>
-<li>Types of Comprehension</li>
-<li>Generator Syntax</li>
-<li>Types of Generators</li>
+<li>Data Analytics with Pandas</li>
+<li>Pandas DataFrame and Series</li>
+<li>Import and Export Data</li>
+<li>Filter and Slice Data</li>
+<li>Clean Data</li>
 </ul>
-<p><strong>Topic 2.2 File and Directory Handling</strong></p>
+<p><strong>Topic 2.2 Data Transformation</strong></p>
 <ul>
-<li>Read and Write Data to Files</li>
-<li>Manage File and Folders with Python OS Module</li>
-<li>Manage Paths with Python Pathlib Module</li>
+<li>Join Data</li>
+<li>Transform Data</li>
+<li>Aggregate Data</li>
 </ul>
-<p><strong>Topic 2.3 Object Oriented Programming</strong></p>
+<p><strong>Topic 2.3 Data Visualization</strong></p>
 <ul>
-<li>Introduction to Object Oriented Programming</li>
-<li>Create Class and Objects</li>
-<li>Method and Overloading</li>
-<li>Initializer &amp; Destructor</li>
-<li>Inheritance</li>
-<li>Polymorphism</li>
+<li>Data Visualization with Matplotlib and Seaborn</li>
+<li>Visualize Statistical Relationships with Scatter Plot</li>
+<li>Visualize Categorical Data with Bar Plot</li>
+<li>Visualize Correlation with Pair Plot and Heatmap</li>
+<li>Visualize Linear Relationships with Regression</li>
 </ul>
-<p><strong>Topic 2.4 Database</strong></p>
+<p><strong>Topic 2.4 Data Analysis</strong></p>
 <ul>
-<li>Setup SQLite3 database</li>
-<li>Apply CRUD operations on SQLite3</li>
-<li>Integrate to external databases</li>
+<li>Statistical Data Analysis</li>
+<li>Time Series Analysis</li>
 </ul>
-<p><strong>Topic 2.5 Error Handling Using Exception</strong></p>
+<p><strong>Topic 2.5 Advanced Data Analytics</strong></p>
 <ul>
-<li>Exceptions versus Syntax Errors</li>
-<li>Handle Exceptions with Try and Except blocks</li>
-<li>The Else clause</li>
-<li>Clean up with Finally</li>
+<li>Data Piping</li>
+<li>Groupby and Apply Custom Functions</li>
+<li>Linear Regression</li>
 </ul>
-<p><strong>Topic 2.6 Intro to Useful Packages</strong></p>
+<h2>Topic 3 Basic Deep Learning with Tensorflow</h2>
+<p><strong>Topic 3.1 Introduction to Deep Learning</strong></p>
 <ul>
-<li>Numpy</li>
-<li>Matplotlib</li>
-<li>Pandas</li>
+<li>Overview of Artificial Intelligence (AI)</li>
+<li>Applications of AI to Finance Services</li>
+<li>Deep Learning Methodology</li>
+<li>Setup Tensorflow Keras</li>
 </ul>
-<p><strong>Python Assessment</strong></p>
-<h2>Day 3<br />Module 3 Basic Tensorflow</h2>
-<p><strong>Topic 3.1 Overview of Machine Learning &amp; Tensorflow</strong></p>
+<p><strong>Topic 3.2 Introduction to Neural Network</strong></p>
 <ul>
-<li>Overview of Machine Learning and Deep Learning</li>
-<li>Introduction to Tensorflow 2.x</li>
-<li>Install Tensorflow 2.x</li>
-</ul>
-<p><strong>Topic 3.2 Basic Tensorflow Operations</strong></p>
-<ul>
-<li>Basic Tensor Data Types</li>
-<li>Constant, Variable &amp; Gradient</li>
-<li>Matrix Operations</li>
-<li>Eagle Mode vs Graph Mode</li>
-</ul>
-<p><strong>Topic 3.3 Datasets</strong></p>
-<ul>
-<li>MNIST Handwritten Digits and Fashion Datasets</li>
-<li>CIFAR Image Dataset</li>
-<li>IMDB Text Dataset</li>
-</ul>
-<p><strong>Topic 3.4 Neural Network for Regression</strong></p>
-<ul>
-<li>Introduction to Neural Network (NN)</li>
-<li>Activation Function</li>
+<li>What is Neural Network (NN)?</li>
 <li>Loss Function and Optimizer</li>
-<li>Machine Learning Methodology</li>
-<li>Build a NN Predictive Regression Model</li>
-<li>Load and Save Model</li>
+<li>Build a Neural Network Model for Regression</li>
 </ul>
-<p><strong>Topic 3.5 Neural Network for Classification</strong></p>
+<p><strong>Topic 3 Classification Model with Neural Network</strong></p>
 <ul>
-<li>Softmax</li>
+<li>One Hot Encoding and SoftMax</li>
 <li>Cross Entropy Loss Function</li>
-<li>Build a NN Classification Model</li>
+<li>Build a Neural Network Model for Classification</li>
 </ul>
-<h2>Day 4<br />Module 4 Advanced Tensorflow</h2>
-<p><strong>Topic 4.1 Convolutional Neural Network (CNN)</strong></p>
+<h2>Topic 4 Advanced Deep Learning Computational Models</h2>
+<p><strong>Topic 4.1 Convolutional Neural Network (CNN) </strong></p>
 <ul>
 <li>Introduction to Convolutional Neural Network (CNN)</li>
 <li>Convolution &amp; Pooling</li>
@@ -150,19 +117,21 @@ https://www.tertiarycourses.com.sg/deep-learning-with-tensorflow-and-python-citr
 <li>Small Dataset Overfitting Issue</li>
 <li>Data Augmentation &amp; Dropout</li>
 </ul>
-<p><strong>Topic 4.2 Recurrent Neural Network (RNN)</strong></p>
-<ul>
-<li>Introduction to Recurrent Neural Network (RNN)</li>
-<li>Types of RNN Architectures</li>
-<li>LSTM and GRU</li>
-<li>Word Embedding</li>
-<li>Build a RNN Model for Text Classification</li>
-</ul>
-<p><strong>Topic 4.3 Transfer Learning &amp; Tensorflow Hub</strong></p>
+<p><strong>Topic 4.2 Transfer Learning</strong></p>
 <ul>
 <li>Introduction to Transfer Learning</li>
 <li>Pre-trained Models</li>
-<li>Tensorflow Hub</li>
 <li>Transfer Learning for Feature Extraction &amp; Fine Tuning</li>
 </ul>
-<p><strong>Tensorflow Assessment</strong></p>
+<p><strong>Topic 4.3 Recurrent Neural Network (RNN)</strong></p>
+<ul>
+<li>Introduction to Recurrent Neural Network (RNN)</li>
+<li>Types of RNN Architectures</li>
+<li>RNN Model for Sentiment Analysis</li>
+<li>RNN Model for Stock Price Prediction</li>
+</ul>
+<p><strong>Final Assessment</strong></p>
+<ul>
+<li>Written Assessment (Q&amp;A)</li>
+<li>Written Assessment (Case Study)</li>
+</ul>
